@@ -1,2 +1,2 @@
-# ConstructIQ.github.io
-A webpage for sharing civil engineering knowledge and site experience
+# ConstructIQ
+A webpage for sharing civil engineering learning, knowledge and site experience
