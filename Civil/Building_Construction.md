@@ -1,3 +1,3 @@
 # BUILDING CONSTRUCTION
 
-## [Components of Building]()
+## [Components of Building](Civil/Content/Component_Building.md)
