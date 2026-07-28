@@ -1,7 +1,6 @@
 # Components of a Building
 
-<img width="896" height="1186" alt="Gemini_Generated_Image_amaeqyamaeqyamae" src="https://github.com/user-attachments/assets/187a4e99-1ad5-4d2e-b095-5867fa1def53" />
-
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/ad91c9f2-a6ed-4e39-b292-1a4a4a765c3f" />
 Based on the diagram, building components are divided into the **Substructure** (below ground) and **Superstructure** (above ground).
 
 ---
