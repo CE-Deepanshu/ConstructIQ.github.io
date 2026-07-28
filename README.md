@@ -6,6 +6,6 @@ A webpage for civil engineering learning, knowledge and site experience
 
 ## [ENGINEERING MATERIALS](Civil/Material.md)
 
-## [CONCRETE MIX QUANTITY CALCULATOR](Content/CQMS.html)
+## [CONCRETE MIX QUANTITY CALCULATOR](CQMS.html)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fce-deepanshu.github.io%2FConstructIQ.github.io%2F&labelColor=%23d9e3f0&countColor=%2337d67a&style=plastic)
