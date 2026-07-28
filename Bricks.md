@@ -4,11 +4,11 @@ A **brick** is an artificial building block of rectangular shape, widely used in
 
 In India, the standard modular size of a conventional brick is 19 cm x 9 cm x 9 cm, which becomes 20 cm x 10 cm x 10 cm once nominal mortar joints are added.
 
-<img width="404" height="373" alt="sticker_1785064136564" src="https://github.com/user-attachments/assets/d38e7688-6ab6-4eba-aaae-3317a8bc4cd5" />
+<img width="393" height="338" alt="image" src="https://github.com/user-attachments/assets/0e04a223-dfa2-4415-833b-647e76ae2050" />
 
 ---
 ## Types of Bricks
-<img width="1024" height="858" alt="image_42d80918-ecf0-4981-94c4-9873339b2e5e" src="https://github.com/user-attachments/assets/e23b498e-a1d6-44cb-af71-0a8205d2c4ea" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/3517d70c-d047-4e0e-822c-1e4bc25a6ee5" />
 
 ## Uses of Bricks
 *   **Load-Bearing Walls:** Supporting vertical weight from roofs and upper floors in low-rise residential configurations.
@@ -21,16 +21,12 @@ In India, the standard modular size of a conventional brick is 19 cm x 9 cm x 9 
 
 ## Pros and Cons
 
-### Pros
-*   **High Compressive Strength:** Easily withstands heavy vertical, structural loads.
-*   **Thermal & Acoustic Insulation:** Dense clay structures absorb solar radiation and damp external sound effectively.
-*   **Highly Fire Resistant:** Because they are pre-fired at over 1000* C during manufacturing, they have exceptional natural fire ratings.
-*   **Cost-Effective & Local:** Raw materials are abundant, minimizing logistical and production overheads.
-
-### Cons
-*   **Low Tensile Strength:** Highly brittle; prone to catastrophic failure under seismic (earthquake) loads unless structurally reinforced.
-*   **Time-Consuming Installation:** Lacks modular scale efficiency when compared to large concrete precast blocks or panels.
-*   **High Water Absorption Potential:** Inferior quality bricks soak up moisture, causing dampness inside structures and triggering chemical degradation.
+| **Pros** | **Cons** |
+| :--- | :--- |
+| **High Compressive Strength:** Easily withstands heavy vertical, structural loads. | **Low Tensile Strength:** Highly brittle; prone to catastrophic failure under seismic (earthquake) loads unless structurally reinforced. |
+| **Thermal & Acoustic Insulation:** Dense clay structures absorb solar radiation and damp external sound effectively. | **Time-Consuming Installation:** Lacks modular scale efficiency when compared to large concrete precast blocks or panels. |
+| **Highly Fire Resistant:** Because they are pre-fired at over 1000°C during manufacturing, they have exceptional natural fire ratings. | **High Water Absorption Potential:** Inferior quality bricks soak up moisture, causing dampness inside structures and triggering chemical degradation. |
+| **Cost-Effective & Local:** Raw materials are abundant, minimizing logistical and production overheads. |  |
 
 ---
 
@@ -166,7 +162,7 @@ To pass rigorous structural requirements on a civil engineering job site, an ide
 | 8.      | Suitability                        | Suitable when bricks are to be manufactured on a small scale and when the demand of bricks is not continuous.                                  | Suitable when bricks are to be manufactured on a large scale and when there is continuous demand of bricks.                                           |
 | 9.      | Time of burning and cooling        | It requires about 2 to 6 months for burning and cooling of bricks.                                                                             | Actual time for burning of one chamber is about 24 hours and only about 12 days are required for cooling of bricks.                                   |
 | 10.     | Wastage of heat                    | There is considerable wastage of heat from top and sides and hot flue gas is not properly utilised.                                            | Hot flue gas is used to dry and pre-heat raw bricks. Hence wastage of heat is the least.  |
-| 11.     |.                                   |<img width="807" height="399" alt="sticker_1785063695140" src="https://github.com/user-attachments/assets/a1f0f450-26db-42ec-a232-7591bc622132" />                                           |<img width="1126" height="1494" alt="sticker_1785063752889" src="https://github.com/user-attachments/assets/0b0905ec-f731-4f25-ad47-e14c710318ee" />                                           |
+| 11.     |                                    |<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/23880521-5286-4d36-b434-2f24b20d2c65" />  |<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/bdd5f9ff-29fe-4b71-be30-39b8d5ba82f2" />                                  |
 
 ### 🔍 Common Field Tests for Bricks
 
