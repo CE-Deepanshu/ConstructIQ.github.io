@@ -1,0 +1,399 @@
+# CEMENT
+A cement is a binder used for construction that sets, hardens, and adheres to other materials to bind them together. Cement is seldom used on its own, but rather to bind sand and gravel (aggregate) together. Cement mixed with fine aggregate produces mortar for masonry, or with sand and gravel, produces concrete.
+
+## Composition of Cement
+
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    svg{max-width:100%;height:auto;background:#fff;font-family:Arial,sans-serif}
+    .title{font-size:28px;font-weight:700;fill:#111827}
+    .legend{font-size:15px;fill:#111827}
+    .label{font-size:15px;font-weight:700;fill:#fff}
+  </style>
+
+  <text x="450" y="45" text-anchor="middle" class="title">
+    Composition of Ordinary Portland Cement (OPC)
+  </text>
+
+  <!-- Pie chart -->
+  <path d="M300,310 L300.0,120.0 A190,190 0 1,1 169.9,448.5 Z" fill="#2E7D32"/>
+  <path d="M300,310 L169.9,448.5 A190,190 0 0,1 139.6,208.2 Z" fill="#1976D2"/>
+  <path d="M300,310 L139.6,208.2 A190,190 0 0,1 178.9,163.6 Z" fill="#F57C00"/>
+  <path d="M300,310 L178.9,163.6 A190,190 0 0,1 219.1,138.1 Z" fill="#7B1FA2"/>
+  <path d="M300,310 L219.1,138.1 A190,190 0 0,1 252.7,126.0 Z" fill="#6D4C41"/>
+  <path d="M300,310 L252.7,126.0 A190,190 0 0,1 276.2,121.5 Z" fill="#0097A7"/>
+  <path d="M300,310 L276.2,121.5 A190,190 0 0,1 288.1,120.4 Z" fill="#C2185B"/>
+  <path d="M300,310 L288.1,120.4 A190,190 0 0,1 300.0,120.0 Z" fill="#FBC02D"/>
+
+  <circle cx="300" cy="310" r="65" fill="white"/>
+  <text x="300" y="305" text-anchor="middle" font-size="18" font-weight="700">OPC</text>
+  <text x="300" y="330" text-anchor="middle" font-size="14">Composition</text>
+
+  <text x="360" y="390" text-anchor="middle" class="label">Lime 62%</text>
+  <text x="165" y="315" text-anchor="middle" class="label">Silica 22%</text>
+
+  <!-- Legend -->
+  <rect x="570" y="130" width="20" height="20" fill="#2E7D32"/>
+  <text x="605" y="146" class="legend">Lime (CaO) — 62%</text>
+
+  <rect x="570" y="165" width="20" height="20" fill="#1976D2"/>
+  <text x="605" y="181" class="legend">Silica (SiO₂) — 22%</text>
+
+  <rect x="570" y="200" width="20" height="20" fill="#F57C00"/>
+  <text x="605" y="216" class="legend">Alumina (Al₂O₃) — 5%</text>
+
+  <rect x="570" y="235" width="20" height="20" fill="#7B1FA2"/>
+  <text x="605" y="251" class="legend">Calcium Sulphate (CaSO₄) — 4%</text>
+
+  <rect x="570" y="270" width="20" height="20" fill="#6D4C41"/>
+  <text x="605" y="286" class="legend">Iron Oxide (Fe₂O₃) — 3%</text>
+
+  <rect x="570" y="305" width="20" height="20" fill="#0097A7"/>
+  <text x="605" y="321" class="legend">Magnesia (MgO) — 2%</text>
+
+  <rect x="570" y="340" width="20" height="20" fill="#C2185B"/>
+  <text x="605" y="356" class="legend">Sulphur (S) — 1%</text>
+
+  <rect x="570" y="375" width="20" height="20" fill="#FBC02D"/>
+  <text x="605" y="391" class="legend">Alkalies — 1%</text>
+</svg>
+
+## History of Cement
+
+<div class="mermaid">
+timeline
+    title History of Cement
+
+    Ancient Period : Early civilizations used lime and gypsum as binding materials
+                   : Egyptians used gypsum mortar in pyramids
+                   : Greeks improved lime mortar with volcanic ash
+
+    Roman Era : Romans mixed lime with pozzolana
+              : Hydraulic cement developed
+              : Used in structures like Pantheon and Colosseum
+
+    Middle Ages : Knowledge of hydraulic cement declined
+                : Lime mortar remained common in construction
+
+    1756 : John Smeaton developed hydraulic lime
+         : Used for rebuilding Eddystone Lighthouse
+
+    1824 : Joseph Aspdin patented Portland Cement
+         : Named Portland due to similarity with Portland stone
+
+    Late 19th Century : Rotary kilns and better grinding equipment introduced
+                      : Large-scale cement production started
+
+    Modern Era : OPC, PPC, PSC and special cements developed
+               : Cement became one of the most used construction materials
+</div>
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+## Types of Cement
+
+<svg width="1100" height="780" viewBox="0 0 1100 780" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg{max-width:100%;height:auto;background:#f8fafc}
+.title{font:700 34px Arial,sans-serif;fill:#0f172a}
+.subtitle{font:16px Arial,sans-serif;fill:#475569}
+.card{fill:#fff;stroke:#cbd5e1;stroke-width:1.5}
+.head{font:700 15px Arial,sans-serif;fill:#0f172a}
+.txt{font:13px Arial,sans-serif;fill:#334155}
+.badge{fill:#0f766e}
+.num{font:700 13px Arial,sans-serif;fill:#fff}
+</style>
+
+<text x="550" y="50" text-anchor="middle" class="title">
+13 Types of Cement and Their Uses
+</text>
+
+<text x="550" y="80" text-anchor="middle" class="subtitle">
+Quick Site Reference for Civil Engineers
+</text>
+
+<!-- Card Template Example -->
+
+<g transform="translate(40,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">1</text>
+<text class="head" x="55" y="30">Ordinary Portland Cement (OPC)</text>
+<text class="txt" x="20" y="60">Buildings, RCC, bridges, pavements,</text>
+<text class="txt" x="20" y="80">foundations and general construction.</text>
+</g>
+
+<g transform="translate(390,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">2</text>
+<text class="head" x="55" y="30">Portland Pozzolana Cement (PPC)</text>
+<text class="txt" x="20" y="60">Mass concrete, hydraulic structures,</text>
+<text class="txt" x="20" y="80">plastering and masonry works.</text>
+</g>
+
+<g transform="translate(740,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">3</text>
+<text class="head" x="55" y="30">Portland Slag Cement (PSC)</text>
+<text class="txt" x="20" y="60">Marine structures, coastal works,</text>
+<text class="txt" x="20" y="80">sewage and aggressive environments.</text>
+</g>
+
+<g transform="translate(40,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">4</text>
+<text class="head" x="55" y="30">Rapid Hardening Cement</text>
+<text class="txt" x="20" y="60">Road repairs, precast concrete and</text>
+<text class="txt" x="20" y="80">early strength applications.</text>
+</g>
+
+<g transform="translate(390,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">5</text>
+<text class="head" x="55" y="30">Quick Setting Cement</text>
+<text class="txt" x="20" y="60">Underwater concreting, grouting</text>
+<text class="txt" x="20" y="80">and emergency repair works.</text>
+</g>
+
+<g transform="translate(740,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">6</text>
+<text class="head" x="55" y="30">Low Heat Cement</text>
+<text class="txt" x="20" y="60">Dams, raft foundations and</text>
+<text class="txt" x="20" y="80">mass concrete structures.</text>
+</g>
+
+<g transform="translate(40,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">7</text>
+<text class="head" x="55" y="30">Sulphate Resisting Cement</text>
+<text class="txt" x="20" y="60">Foundations in sulphate soils,</text>
+<text class="txt" x="20" y="80">marine and sewage works.</text>
+</g>
+
+<g transform="translate(390,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">8</text>
+<text class="head" x="55" y="30">High Alumina Cement</text>
+<text class="txt" x="20" y="60">Refractory concrete, chemical</text>
+<text class="txt" x="20" y="80">plants and high temperatures.</text>
+</g>
+
+<g transform="translate(740,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">9</text>
+<text class="head" x="55" y="30">White Cement</text>
+<text class="txt" x="20" y="60">Architectural finishes, decorative</text>
+<text class="txt" x="20" y="80">works and terrazzo flooring.</text>
+</g>
+
+<g transform="translate(40,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">10</text>
+<text class="head" x="55" y="30">Coloured Cement</text>
+<text class="txt" x="20" y="60">Decorative facades, flooring</text>
+<text class="txt" x="20" y="80">and architectural finishes.</text>
+</g>
+
+<g transform="translate(390,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">11</text>
+<text class="head" x="55" y="30">Hydrophobic Cement</text>
+<text class="txt" x="20" y="60">Humid regions and long-term</text>
+<text class="txt" x="20" y="80">cement storage.</text>
+</g>
+
+<g transform="translate(740,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">12</text>
+<text class="head" x="55" y="30">Air Entraining Cement</text>
+<text class="txt" x="20" y="60">Roads, pavements, runways</text>
+<text class="txt" x="20" y="80">and freeze-thaw regions.</text>
+</g>
+
+<g transform="translate(390,650)">
+<rect class="card" width="320" height="90" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">13</text>
+<text class="head" x="55" y="30">Masonry Cement</text>
+<text class="txt" x="20" y="60">
+Brick masonry, plastering, pointing and non-structural works.
+</text>
+</g>
+
+</svg>
+
+## Manufacturing of Cement
+
+### Dry Process
+
+<div class="mermaid">
+flowchart TD
+
+    A[Calcareous Material<br/>Limestone] --> B[Crushing]
+    B --> C[Fine Grinding in Ball Mills<br/>and Tube Mills]
+    C --> D[Storage]
+
+    E[Argillaceous Material<br/>Clay] --> F[Washing]
+    F --> G[Fine Grinding in Ball Mills<br/>and Tube Mills]
+    G --> H[Storage]
+
+    D --> I[Mixing in Correct Proportion]
+    H --> I
+
+    I --> J[Storage Tank for Raw Mix]
+    J --> K[Rotary Kiln]
+
+    L[Coal Dust] --> K
+
+    K --> M[Formation of Clinkers]
+    M --> N[Coolers]
+    N --> O[Grinding of Clinkers in Ball Mills<br/>and Tube Mills]
+
+    P[Gypsum 2 to 3%] --> O
+
+    O --> Q[Storage in Silos]
+    Q --> R[Weighing & Packing in Bags]
+    R --> S[Distribution]
+</div>
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+### Wet Process
+
+<div class="mermaid">
+flowchart TD
+
+    A[Calcareous Materials<br/>Limestone/Marl]
+    B[Preliminary Crushing<br/>Crushers-Roll Mills]
+    C[Elevators<br/>Storage Bins]
+
+    D[Argillaceous Materials<br/>Clay/Shale]
+    E[Washing<br/>Wash Mills]
+    F[Elevators<br/>Storage Tanks]
+
+    W[Water]
+
+    A --> B
+    B --> C
+
+    D --> E
+    E --> F
+
+    C --> G[Hoppers]
+    F --> G
+
+    G --> H[Wet Grinding<br/>Ball Mills]
+    W --> H
+
+    H --> I[Raw Slurry]
+
+    J[Lime Slurry]
+    K[Clay Slurry]
+
+    I --> L[Elevators]
+    J --> L
+    K --> L
+
+    L --> M[Correction Silos]
+    M --> N[Rotary Kiln]
+
+    O[Fuel Coal]
+    P[Crushing and Grinding<br/>Ball Mills]
+    Q[Pulverized Coal]
+
+    O --> P
+    P --> Q
+    Q --> N
+
+    N --> R[Clinker]
+
+    S[Gypsum]
+    T[Gypsum Hoppers]
+
+    S --> T
+
+    R --> U[Clinker Grinding<br/>Tube Mills]
+    T --> U
+
+    U --> V[Elevators<br/>Cement Silos]
+    V --> X[Weighing and Packing]
+    X --> Y[Supply]
+</div>
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+## Water Cement Ratio vs Strength (Conforming to IS 10262)
+
+<img width="584" height="554" alt="image" src="https://github.com/user-attachments/assets/89bd5f1d-f95c-4075-8fae-5920520c2365" />
+
+**FIG 1. RELATIONSHIP BETWEEN FREE WATER CEMENT RATIO AND 28 DAYS COMPRESSIVE STRENGTHS OF CONCRETE FOR CEMENTS OF VARIOUS EXPECTED 28 DAYS COMPRESSIVE STRENGTHS**
+
+Curve 1 : for expected 28 days compressive strength of 33 and < 43 N/mm2
+
+Curve 2 : for expected 28 days compressive strength of 43 and < 53 N/mm2
+
+Curve 3 : for expected 28 days compressive strength of 53 N/mm2 and above
+
+**NOTES**
+
+1 In the absence of data on actual 28 days compressive strength of cement, the curves 1, 2 and 3 may be used for OPC 33, OPC 43 and
+OPC 53, respectively.
+
+2 While using PPC/PSC, the appropriate curve as per the actual strength may be utilized. In the absence of the actual 28 days compressive
+strength data, curve 2 may be utilized.
+
+## BOGUE's COMPOUNDS
+
+**Bogue's compounds** (also written as *Bogues compounds*) are the four principal chemical compounds found in Portland cement. They are named after the chemist **Robert H. Bogue**, who developed a method to calculate their approximate proportions in cement clinker.
+
+These compounds are responsible for the key reactions when cement is mixed with water, determining properties like setting time, strength development, and durability. The four main Bogue's compounds are:
+
+| Compound Name | Abbreviation | Chemical Formula | Typical Proportion in Cement |
+| :--- | :--- | :--- | :--- |
+| **Tricalcium silicate** | C₃S | 3CaO·SiO₂ | 45% - 65% |
+| **Dicalcium silicate** | C₂S | 2CaO·SiO₂ | 15% - 35% |
+| **Tricalcium aluminate** | C₃A | 3CaO·Al₂O₃ | 4% - 14% |
+| **Tetracalcium aluminoferrite** | C₄AF | 4CaO·Al₂O₃·Fe₂O₃ | 10% - 18% |
+
+Here is a breakdown of the effects, benefits, and demerits of each compound, reordered as requested:
+
+### 1. Tricalcium Aluminate (C₃A - Celite)
+*   **Effects & Benefits**: Reacts very rapidly with water and is responsible for the **initial (flash) setting** of cement. Gypsum is added to cement specifically to control this rapid reaction.
+*   **Demerits**: Its rapid reaction releases a **very high heat of hydration**. It contributes little to ultimate strength and significantly **reduces resistance to sulfate attack**. It can also cause volumetric changes leading to cracking.
+
+### 2. Tetracalcium Aluminoferrite (C₄AF - Ferrite)
+*   **Effects & Benefits**: Hydrates relatively quickly but has the **least cementing value**. It is primarily responsible for the **grey color** of Portland cement and can offer better resistance against sulfate attack.
+*   **Demerits**: It contributes very little to the strength of the cement.
+
+### 3. Tricalcium Silicate (C₃S - Alite)
+*   **Effects & Benefits**: The most important compound for cement strength. It hydrates relatively quickly, providing **early strength** (within the first 7 days). It constitutes the highest percentage of cement (around 45%).
+*   **Demerits**: Its rapid reaction releases a **high heat of hydration**, which can cause thermal cracking in large concrete pours. Excessive amounts can also increase cement solubility.
+
+### 4. Dicalcium Silicate (C₂S - Belite)
+*   **Effects & Benefits**: Hydrates slowly and is responsible for **long-term strength** development (after 7 days and beyond). It releases **less heat** during hydration compared to C₃S and offers better resistance to chemical attacks.
+*   **Demerits**: Its slow reaction means it provides **little to no early strength**. A high content can make clinker grinding more difficult.
+
+**Note**: By adjusting their proportions, manufacturers can produce different types of cement tailored for specific needs—for example, high C₃S for rapid strength gain or low C₃A for sulfate-resistant applications.
+<img width="1024" height="924" alt="image_012ae66c-0952-4e93-b410-22bb587410c0" src="https://github.com/user-attachments/assets/2d04a74d-1261-4b03-b785-1090ed4c7a6c" />
+<img width="1024" height="811" alt="image_305f0810-d58a-4168-a3c9-60f83a681352" src="https://github.com/user-attachments/assets/8bc8d99b-9cee-40c8-8d91-59fd0da1cda2" />
