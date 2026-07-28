@@ -345,7 +345,7 @@ flowchart TD
 
 ## Water Cement Ratio vs Strength (Conforming to IS 10262)
 
-<img width="584" height="554" alt="image" src="https://github.com/user-attachments/assets/89bd5f1d-f95c-4075-8fae-5920520c2365" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0c145486-b3d1-421b-b817-388b9d52585e" />
 
 **FIG 1. RELATIONSHIP BETWEEN FREE WATER CEMENT RATIO AND 28 DAYS COMPRESSIVE STRENGTHS OF CONCRETE FOR CEMENTS OF VARIOUS EXPECTED 28 DAYS COMPRESSIVE STRENGTHS**
 
