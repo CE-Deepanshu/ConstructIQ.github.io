@@ -2,9 +2,9 @@
 
 A webpage for civil engineering learning, knowledge and site experience
 
-## [BUILDING CONSTRUCTION](Civil/Building_Construction.md)
+## [BUILDING CONSTRUCTION](Building_Construction.md)
 
-## [ENGINEERING MATERIALS](Civil/Material.md)
+## [ENGINEERING MATERIALS](Material.md)
 
 ## [CONCRETE MIX QUANTITY CALCULATOR](CQMS.html)
 
