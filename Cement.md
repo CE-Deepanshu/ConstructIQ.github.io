@@ -1,6 +1,8 @@
 # CEMENT
 A cement is a binder used for construction that sets, hardens, and adheres to other materials to bind them together. Cement is seldom used on its own, but rather to bind sand and gravel (aggregate) together. Cement mixed with fine aggregate produces mortar for masonry, or with sand and gravel, produces concrete.
 
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/feec9eb6-cdd2-4a19-951a-ec221514596a" />
+
 ## Composition of Cement
 
 <svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
