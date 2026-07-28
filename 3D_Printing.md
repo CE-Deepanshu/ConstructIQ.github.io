@@ -2,7 +2,7 @@
 ## 3D Printing
 3D printing, also known as additive manufacturing, is an innovative process of creating three-dimensional objects from Computer-Aided Design (CAD) models. It operates on a simple concept called layer-by-layer construction. 3D printing adds material in successive layers to build an object. This process begins with a digital 3D model designed using specialised CAD software or obtained through 3D scanning technologies. The model is then sliced into numerous thin horizontal layers to create a digital blueprint. These layers guide the 3D printer as it deposits material, typically plastic, concrete, metal, or other composite materials by following the precise instructions from the digital design.
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/12c5619d-bc0a-4a9a-aa92-412a71888b9b" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/12c5619d-bc0a-4a9a-aa92-412a71888b9b" />
 
 ---
 ## How is 3D Printing Executed in Construction?
@@ -85,3 +85,18 @@ flowchart TD
 | **Design and construction** | Integrating electrical and mechanical services into 3D printed structures remains a challenge, especially in remote locations. |
 | **Construction site suitability** | The uncontrolled and irregular environments of construction sites pose challenges for 3D printers, which demand controlled settings for optimal operation. |
 | **Lack of standards and regulations** | The absence of comprehensive regulations governing 3D printing in construction creates uncertainty and obstacles in ensuring standardised practices and safety. |
+
+## Type of 3D Printers
+
+### Concrete extrusion printers
+These printers specialise in extruding concrete mixtures layer by layer. They enable the construction of walls, floors, and even entire buildings. They utilise large nozzles to deposit concrete in precise patterns to gradually build the desired structure.
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/ae4b7a2b-7a35-40ae-8113-645aca91445c" />
+
+### Robotic arm printers
+Equipped with robotic arms, these printers offer enhanced flexibility and manoeuvrability. They can navigate intricate paths depositing construction materials with precision. They are used to build more complex and customised designs.
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/fa23238d-7135-4483-87ab-130a6d381979" />
+
+### Gantry systems
+These are used for large-scale construction projects. They feature a rigid framework that moves along a track depositing material to create structures efficiently over a large area.
+
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/351ec067-5e3b-4114-b050-91b286c5fe82" />
