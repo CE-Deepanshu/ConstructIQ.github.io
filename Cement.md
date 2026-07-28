@@ -395,5 +395,7 @@ Here is a breakdown of the effects, benefits, and demerits of each compound, reo
 *   **Demerits**: Its slow reaction means it provides **little to no early strength**. A high content can make clinker grinding more difficult.
 
 **Note**: By adjusting their proportions, manufacturers can produce different types of cement tailored for specific needs—for example, high C₃S for rapid strength gain or low C₃A for sulfate-resistant applications.
-<img width="1024" height="924" alt="image_012ae66c-0952-4e93-b410-22bb587410c0" src="https://github.com/user-attachments/assets/2d04a74d-1261-4b03-b785-1090ed4c7a6c" />
-<img width="1024" height="811" alt="image_305f0810-d58a-4168-a3c9-60f83a681352" src="https://github.com/user-attachments/assets/8bc8d99b-9cee-40c8-8d91-59fd0da1cda2" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b0df6500-d44e-4f33-8754-3a1afccee456" />
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/832d5dcc-9878-4a9d-b507-f661248ca501" />
+
