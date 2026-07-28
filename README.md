@@ -4,4 +4,4 @@ A webpage for civil engineering learning, knowledge and site experience
 
 ## [BUILDING CONSTRUCTION](Civil/Building_Construction.md)
 
-## [CONCRETE MIX QUANTITY CALCULATOR](Civil/Content/CQMS.html)
+## [CONCRETE MIX QUANTITY CALCULATOR](Content/CQMS.html)
