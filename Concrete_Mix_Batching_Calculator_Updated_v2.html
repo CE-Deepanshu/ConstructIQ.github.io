@@ -943,7 +943,7 @@
     working += calcSection('Coarse aggregate');
     working += calcRow('Total agg. volume', `${fmt(Vdry,3)} × (${rA}/${R})`, `${fmt(Va,3)} m³`);
     aggBreakdown.forEach(r => {
-      working += calcRow(`${r.size} (${fmt(r.fraction,1)}%)`, `Vai = ${fmt(Va,3)} × (${fmt(r.fraction,1)}%) = ${fmt(r.Vai,3)} m³ &nbsp;·&nbsp; Wai = ${fmt(r.Vai,3)} × ${r.density} kg/m³`, `${fmt(r.Wai,1)} kg`, true);
+      working += calcRow(`${r.size} (${fmt(r.fraction,1)}%)`, `Volume = ${fmt(Va,3)} × (${fmt(r.fraction,1)}%) = ${fmt(r.Vai,3)} m³ &nbsp;·&nbsp; Weight = ${fmt(r.Vai,3)} × ${r.density} kg/m³`, `${fmt(r.Wai,1)} kg`, true);
     });
     working += calcRow('Total agg. weight', 'sum of size-wise weights above', `${fmt(Wa,1)} kg`);
 
