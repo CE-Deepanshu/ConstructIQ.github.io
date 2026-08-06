@@ -8,6 +8,8 @@ A webpage for civil engineering learning, knowledge and site experience
 
 ## [ENGINEERING MATERIALS](Material.md)
 
+## [SOIL MECHANICS/ GEOTECHNICAL ENGG.](Geo1.md)
+
 ## [CONCRETE MIX BATCHING CALCULATOR](CMBC1.html)
 
 ## [IMPORTANT SUBJECTS](ImpSub.md)
